@@ -1,0 +1,8 @@
+implementacao\FormatoExportacao.class
+implementacao\ExportadorExcel.class
+abstracao\RelatorioVendas.class
+com\mycompany\badge_fase2\cliente\Main.class
+implementacao\ExportadorPDF.class
+abstracao\Relatorio.class
+abstracao\RelatorioRH.class
+implementacao\ExportadorHTML.class
