@@ -4,7 +4,7 @@ Projeto acadêmico (FATEC Zona Leste) que aplica o **padrão de projeto Bridge**
 para resolver a explosão de subclasses no módulo de relatórios de um sistema
 de inteligência de negócios.
 
-**Aluno:** João Pedro Machado
+**Alunos:** João Pedro Machado e Giovanna Aparecida
 
 ## 1. Problema
 
